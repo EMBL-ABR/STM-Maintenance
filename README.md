@@ -1,5 +1,5 @@
 # EMBL-ABR Search for Training Materials
-Maintenance page for EMBL_ABR_STM.
+Maintenance page for EMBL-ABR STM.
 
 ### Launch instructions
 
