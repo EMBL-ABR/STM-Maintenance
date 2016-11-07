@@ -11,7 +11,7 @@ Maintenance page for EMBL-ABR STM.
   sudo service nginx start
   ```
 
-2. Clone repo into `/usr/share/nginx/html/`
+2. Clone repo, place contents into `/usr/share/nginx/html/`
 
 3. Then, reload nginx
 
